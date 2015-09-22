@@ -1,0 +1,2948 @@
+fileFormatVersion: 2
+guid: 557d7223ceda641718bdb7f4712444b0
+timeCreated: 1441128301
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: zoro_0
+    21300002: zoro_1
+    21300004: zoro_2
+    21300006: zoro_3
+    21300008: zoro_4
+    21300010: zoro_5
+    21300012: zoro_6
+    21300014: zoro_7
+    21300016: zoro_8
+    21300018: zoro_9
+    21300020: zoro_10
+    21300022: zoro_11
+    21300024: zoro_12
+    21300026: zoro_13
+    21300028: zoro_14
+    21300030: zoro_15
+    21300032: zoro_16
+    21300034: zoro_17
+    21300036: zoro_18
+    21300038: zoro_19
+    21300040: zoro_20
+    21300042: zoro_21
+    21300044: zoro_22
+    21300046: zoro_23
+    21300048: zoro_24
+    21300050: zoro_25
+    21300052: zoro_26
+    21300054: zoro_27
+    21300056: zoro_28
+    21300058: zoro_29
+    21300060: zoro_30
+    21300062: zoro_31
+    21300064: zoro_32
+    21300066: zoro_33
+    21300068: zoro_34
+    21300070: zoro_35
+    21300072: zoro_36
+    21300074: zoro_37
+    21300076: zoro_38
+    21300078: zoro_39
+    21300080: zoro_40
+    21300082: zoro_41
+    21300084: zoro_42
+    21300086: zoro_43
+    21300088: zoro_44
+    21300090: zoro_45
+    21300092: zoro_46
+    21300094: zoro_47
+    21300096: zoro_48
+    21300098: zoro_49
+    21300100: zoro_50
+    21300102: zoro_51
+    21300104: zoro_52
+    21300106: zoro_53
+    21300108: zoro_54
+    21300110: zoro_55
+    21300112: zoro_56
+    21300114: zoro_57
+    21300116: zoro_58
+    21300118: zoro_59
+    21300120: zoro_60
+    21300122: zoro_61
+    21300124: zoro_62
+    21300126: zoro_63
+    21300128: zoro_64
+    21300130: zoro_65
+    21300132: zoro_66
+    21300134: zoro_67
+    21300136: zoro_68
+    21300138: zoro_69
+    21300140: zoro_70
+    21300142: zoro_71
+    21300144: zoro_72
+    21300146: zoro_73
+    21300148: zoro_74
+    21300150: zoro_75
+    21300152: zoro_76
+    21300154: zoro_77
+    21300156: zoro_78
+    21300158: zoro_79
+    21300160: zoro_80
+    21300162: zoro_81
+    21300164: zoro_82
+    21300166: zoro_83
+    21300168: zoro_84
+    21300170: zoro_85
+    21300172: zoro_86
+    21300174: zoro_87
+    21300176: zoro_88
+    21300178: zoro_89
+    21300180: zoro_90
+    21300182: zoro_91
+    21300184: zoro_92
+    21300186: zoro_93
+    21300188: zoro_94
+    21300190: zoro_95
+    21300192: zoro_96
+    21300194: zoro_97
+    21300196: zoro_98
+    21300198: zoro_99
+    21300200: zoro_100
+    21300202: zoro_101
+    21300204: zoro_102
+    21300206: zoro_103
+    21300208: zoro_104
+    21300210: zoro_105
+    21300212: zoro_106
+    21300214: zoro_107
+    21300216: zoro_108
+    21300218: zoro_109
+    21300220: zoro_110
+    21300222: zoro_111
+    21300224: zoro_112
+    21300226: zoro_113
+    21300228: zoro_114
+    21300230: zoro_115
+    21300232: zoro_116
+    21300234: zoro_117
+    21300236: zoro_118
+    21300238: zoro_119
+    21300240: zoro_120
+    21300242: zoro_122
+    21300244: zoro_123
+    21300246: zoro_124
+    21300248: zoro_125
+    21300250: zoro_126
+    21300252: zoro_127
+    21300254: zoro_128
+    21300256: zoro_129
+    21300258: zoro_130
+    21300260: zoro_131
+    21300262: zoro_132
+    21300264: zoro_133
+    21300266: zoro_134
+    21300268: zoro_135
+    21300270: zoro_136
+    21300272: zoro_137
+    21300274: zoro_138
+    21300276: zoro_139
+    21300278: zoro_144
+    21300280: zoro_145
+    21300282: zoro_146
+    21300284: zoro_147
+    21300286: zoro_148
+    21300288: zoro_149
+    21300290: zoro_150
+    21300292: zoro_162.2
+    21300294: zoro_152
+    21300296: zoro_153
+    21300298: zoro_154
+    21300300: zoro_162.3
+    21300302: zoro_157
+    21300304: zoro_158
+    21300306: zoro_159
+    21300308: zoro_160
+    21300310: zoro_161
+    21300312: zoro_162
+    21300314: zoro_163
+    21300316: zoro_164
+    21300318: zoro_165
+    21300320: zoro_167
+    21300322: zoro_168
+    21300324: zoro_169
+    21300326: zoro_170
+    21300328: zoro_171
+    21300330: zoro_172
+    21300332: zoro_174
+    21300334: zoro_176
+    21300336: zoro_177
+    21300338: zoro_175
+    21300340: zoro_180
+    21300342: zoro_181
+    21300344: zoro_175.2
+    21300346: zoro_176.2
+    21300348: zoro_191
+    21300350: zoro_192
+    21300352: zoro_182
+    21300354: zoro_183
+    21300356: zoro_184
+    21300358: zoro_185
+    21300360: zoro_186
+    21300362: zoro_194
+    21300364: zoro_195
+    21300366: zoro_189
+    21300368: zoro_190
+    21300370: zoro_193
+    21300372: zoro_199
+    21300374: zoro_200
+    21300376: zoro_201
+    21300378: zoro_202
+    21300380: zoro_204
+    21300382: zoro_205
+    21300384: zoro_206
+    21300386: zoro_207
+    21300388: zoro_208
+    21300390: zoro_209
+    21300392: zoro_210
+    21300394: zoro_211
+    21300396: zoro_212
+    21300398: zoro_213
+    21300400: zoro_224
+    21300402: zoro_224.3
+    21300404: zoro_224.4
+    21300406: zoro_220
+    21300408: zoro_221
+    21300410: zoro_222
+    21300412: zoro_223
+    21300414: zoro_224.2
+    21300416: zoro_225
+    21300418: zoro_226
+    21300420: zoro_227
+    21300422: zoro_228
+    21300424: zoro_229
+    21300426: zoro_230
+    21300428: zoro_231
+    21300430: zoro_234
+    21300432: zoro_235
+    21300434: zoro_236
+    21300436: zoro_237
+    21300438: zoro_238
+    21300440: zoro_239
+    21300442: zoro_240
+    21300444: zoro_241
+    21300446: zoro_242
+    21300448: zoro_243
+    21300450: zoro_244
+    21300452: zoro_246
+    21300454: zoro_247
+    21300456: zoro_248
+    21300458: zoro_249
+    21300460: zoro_250
+    21300462: zoro_251
+    21300464: zoro_252
+    21300466: zoro_253
+    21300468: zoro_254
+    21300470: zoro_255
+    21300472: zoro_256
+    21300474: zoro_257
+    21300476: zoro_258
+    21300478: zoro_259
+    21300480: zoro_260
+    21300482: zoro_261
+    21300484: zoro_262
+    21300486: zoro_263
+    21300488: zoro_264
+    21300490: zoro_265
+    21300492: zoro_266
+    21300494: zoro_267
+    21300496: zoro_268
+    21300498: zoro_269
+    21300500: zoro_270
+    21300502: zoro_273
+    21300504: zoro_274
+    21300506: zoro_275
+    21300508: zoro_276
+    21300510: zoro_277
+    21300512: zoro_278
+    21300514: zoro_280
+    21300516: zoro_281
+    21300518: zoro_282
+    21300520: zoro_283
+    21300522: zoro_284
+    21300524: zoro_136.2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: zoro_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2446
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2446
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2446
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2446
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2452
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2452
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_6
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 2452
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2370
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2370
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2370
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2370
+        width: 59
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_11
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2370
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 2369
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2370
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_14
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2370
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_15
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2374
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2374
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2272
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2272
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2272
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2272
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2272
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2272
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2274
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_24
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2274
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_25
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2274
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_26
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 2275
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_27
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2290
+        width: 63
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_28
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2285
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2169
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_30
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2169
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2169
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_32
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2169
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2169
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2167
+        width: 72
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2169
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_36
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2169
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_37
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2169
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_38
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2171
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2172
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2173
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_41
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 2173
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_42
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2173
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_43
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2173
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_44
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2173
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_45
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2173
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_46
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 2173
+        width: 104
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_47
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2078
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_48
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2078
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_49
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2078
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 2078
+        width: 85
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2078
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2078
+        width: 92
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_53
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2078
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_54
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 2078
+        width: 87
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_55
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2078
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_56
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2076
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_57
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2076
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_58
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2076
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_59
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 2076
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_60
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 2076
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_61
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2076
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_62
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1943
+        width: 66
+        height: 48
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_63
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1943
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_64
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1943
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_65
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1943
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_66
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1988
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1942
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1942
+        width: 77
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1942
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_70
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1942
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_71
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1942
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_72
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1942
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_73
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1942
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_74
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1943
+        width: 50
+        height: 26
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_75
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1839
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1839
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_77
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1839
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_78
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1839
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_79
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1839
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_80
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1839
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_81
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1839
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_82
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1839
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_83
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1862
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_84
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1859
+        width: 58
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_85
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1860
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_86
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1860
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_87
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1860
+        width: 59
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_88
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1860
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1741
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_90
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1741
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_91
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1741
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_92
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1741
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_93
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1741
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_94
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1741
+        width: 67
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_95
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1740
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_96
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1741
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1642
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_99
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1642
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_100
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1659
+        width: 83
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_101
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1635
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_102
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1635
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1542
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_104
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1534
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1525
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_106
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1535
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_107
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1543
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_108
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1540
+        width: 39
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_109
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1549
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_110
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1545
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_111
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1442
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_112
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1442
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_113
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1442
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_114
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1442
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_115
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1430
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_116
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1430
+        width: 90
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_117
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1431
+        width: 82
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_118
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1431
+        width: 77
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_119
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1442
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_120
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1439
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_122
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1285
+        width: 100
+        height: 110
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_123
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1285
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_124
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1284
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_125
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1284
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_126
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1284
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_127
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1284
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_128
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1284
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_129
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1284
+        width: 107
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_130
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 1284
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_131
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1284
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_132
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1284
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_133
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1185
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_134
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1185
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_135
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1184
+        width: 107
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_136
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1184
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_137
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1185
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_138
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1184
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_139
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1185
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_144
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1081
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_145
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1081
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_146
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1081
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_147
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1081
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_148
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1081
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_149
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1081
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_150
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1081
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_162.2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 960
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_152
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1091
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_153
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1092
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_154
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1096
+        width: 83
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_162.3
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 960
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_157
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 960
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_158
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 960
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_159
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 960
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_160
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 960
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_161
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 960
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_162
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 960
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_163
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 960
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_164
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 960
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_165
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 960
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_167
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 847
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_168
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 847
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_169
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 847
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_170
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 847
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_171
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 847
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_172
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 847
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_174
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 782
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_176
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 780
+        width: 110
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_177
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 782
+        width: 78
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_175
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 782
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_180
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 782
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_181
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 782
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_175.2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 780
+        width: 108
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_176.2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 780
+        width: 109
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_191
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 638
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_192
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 638
+        width: 91
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_182
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 637
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_183
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 637
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_184
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 637
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_185
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 637
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_186
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 637
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_194
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 637
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_195
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 637
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_189
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 637
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_190
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 637
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_193
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 638
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_199
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 637
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_200
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 637
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_201
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 637
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_202
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 637
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_204
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 539
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_205
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 539
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_206
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 539
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_207
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 539
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_208
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 539
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_209
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 539
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_210
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 539
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_211
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 542
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_212
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 542
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_213
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 540
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_224
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 408
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_224.3
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 408
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_224.4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 409
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_220
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 422
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_221
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 422
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_222
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 422
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_223
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 422
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_224.2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 408
+        width: 47
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_225
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 418
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_226
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 418
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_227
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 418
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_228
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 422
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_229
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 422
+        width: 69
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_230
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 422
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_231
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 422
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_234
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 301
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_235
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 298
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_236
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 297
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_237
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 301
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_238
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 320
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_239
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 319
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_240
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 320
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_241
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 323
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_242
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 323
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_243
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 326
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_244
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 298
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_246
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 319
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_247
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 318
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_248
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 319
+        width: 61
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_249
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 214
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_250
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 214
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_251
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 214
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_252
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 214
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_253
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 222
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_254
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 215
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_255
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 221
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_256
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 216
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_257
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 219
+        width: 52
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_258
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 214
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_259
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 214
+        width: 54
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_260
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 214
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_261
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 213
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_262
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 213
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_263
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 213
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_264
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_265
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 105
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_266
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 109
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_267
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 109
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_268
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 109
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_269
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 109
+        width: 56
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_270
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 109
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_273
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_274
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 12
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_275
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_276
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 13
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_277
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 14
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_278
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 16
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_280
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 16
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_281
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 16
+        width: 66
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_282
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 16
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_283
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 16
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_284
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 16
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: zoro_136.2
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1184
+        width: 110
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

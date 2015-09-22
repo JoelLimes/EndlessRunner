@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 99419fa506508462b9644825672af0ea
+timeCreated: 1441122749
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ichigo_0
+    21300002: Ichigo_1
+    21300004: Ichigo_2
+    21300006: Ichigo_3
+    21300008: Ichigo_4
+    21300010: Ichigo_5
+    21300012: Ichigo_6
+    21300014: Ichigo_7
+    21300016: Ichigo_8
+    21300018: Ichigo_9
+    21300020: Ichigo_10
+    21300022: Ichigo_11
+    21300024: Ichigo_12
+    21300026: Ichigo_14
+    21300028: Ichigo_15
+    21300030: Ichigo_16
+    21300032: Ichigo_17
+    21300034: Ichigo_18
+    21300036: Ichigo_19
+    21300038: Ichigo_20
+    21300040: Ichigo_21
+    21300042: Ichigo_22
+    21300044: Ichigo_23
+    21300046: Ichigo_24
+    21300048: Ichigo_25
+    21300050: Ichigo_26
+    21300052: Ichigo_27
+    21300054: Ichigo_28
+    21300056: Ichigo_29
+    21300058: Ichigo_30
+    21300060: Ichigo_31
+    21300062: Ichigo_32
+    21300064: Ichigo_33
+    21300066: Ichigo_34
+    21300068: Ichigo_35
+    21300070: Ichigo_36
+    21300072: Ichigo_37
+    21300074: Ichigo_41
+    21300076: Ichigo_42
+    21300078: Ichigo_43
+    21300080: Ichigo_44
+    21300082: Ichigo_45
+    21300084: Ichigo_46
+    21300086: Ichigo_47
+    21300088: Ichigo_48
+    21300090: Ichigo_49
+    21300092: Ichigo_50
+    21300094: Ichigo_51
+    21300096: Ichigo_52
+    21300098: Ichigo_53
+    21300100: Ichigo_54
+    21300102: Ichigo_55
+    21300104: Ichigo_56
+    21300106: Ichigo_57
+    21300108: Ichigo_60
+    21300110: Ichigo_63
+    21300112: Ichigo_64
+    21300114: Ichigo_65
+    21300116: Ichigo_66
+    21300118: Ichigo_67
+    21300120: Ichigo_68
+    21300122: Ichigo_69
+    21300124: Ichigo_70
+    21300126: Ichigo_71
+    21300128: Ichigo_72
+    21300130: Ichigo_73
+    21300132: Ichigo_74
+    21300134: Ichigo_75
+    21300136: Ichigo_79
+    21300138: Ichigo_80
+    21300140: Ichigo_81
+    21300142: Ichigo_82
+    21300144: Ichigo_83
+    21300146: Ichigo_84
+    21300148: Ichigo_85
+    21300150: Ichigo_86
+    21300152: Ichigo_87
+    21300154: Ichigo_88
+    21300156: Ichigo_89
+    21300158: Ichigo_90
+    21300160: Ichigo_91
+    21300162: Ichigo_92
+    21300164: Ichigo_93
+    21300166: Ichigo_94
+    21300168: Ichigo_95
+    21300170: Ichigo_96
+    21300172: Ichigo_97
+    21300174: Ichigo_98
+    21300176: Ichigo_99
+    21300178: Ichigo_100
+    21300180: Ichigo_101
+    21300182: Ichigo_102
+    21300184: Ichigo_103
+    21300186: Ichigo_104
+    21300188: Ichigo_105
+    21300190: Ichigo_106
+    21300192: Ichigo_107
+    21300194: Ichigo_108
+    21300196: Ichigo_109
+    21300198: Ichigo_110
+    21300200: Ichigo_111
+    21300202: Ichigo_112
+    21300204: Ichigo_113
+    21300206: Ichigo_117
+    21300208: Ichigo_118
+    21300210: Ichigo_119
+    21300212: Ichigo_51.2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ichigo_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1936
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1936
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1936
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1936
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1936
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1844
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1844
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1772
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1772
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1772
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1771
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1770
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1772
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1772
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1690
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1687
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_17
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1686
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_18
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1685
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1684
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1686
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_21
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1685
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1580
+        width: 43
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1580
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1581
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1577
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1580
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1574
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1457
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1458
+        width: 33
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_30
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1456
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_31
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1455
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1454
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1366
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_34
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1366
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1362
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1362
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1362
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1262
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_42
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1277
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1274
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_44
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1273
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1274
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1198
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_47
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1195
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_48
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1190
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_49
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1114
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_50
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1111
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_51
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1109
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1035
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 975
+        width: 48
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 971
+        width: 57
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_55
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 979
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_56
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 979
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 980
+        width: 72
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_60
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 977
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_63
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 976
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_64
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 973
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_65
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 972
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_66
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 973
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_67
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 885
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_68
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 887
+        width: 84
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 886
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_70
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 780
+        width: 141
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_71
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 686
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_72
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 686
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 682
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 681
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_75
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 681
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_79
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 607
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 607
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_81
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 606
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_82
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 594
+        width: 62
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_83
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 597
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_84
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 598
+        width: 56
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_85
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 523
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_86
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 517
+        width: 74
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 517
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 512
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_89
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 514
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_90
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 517
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_91
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 437
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_92
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 436
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 435
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_94
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 435
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_95
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 434
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_96
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 433
+        width: 55
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_97
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 434
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_98
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 433
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_99
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 432
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 333
+        width: 147
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_101
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 360
+        width: 139
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_102
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 344
+        width: 141
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_103
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 350
+        width: 135
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_104
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 235
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_105
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 235
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_106
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 230
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_107
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 230
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_108
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 229
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_109
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 234
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_110
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 235
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_111
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 232
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_112
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 231
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_113
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 229
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_117
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 121
+        width: 172
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_118
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 114
+        width: 204
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_119
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ichigo_51.2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1112
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
