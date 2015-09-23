@@ -25,11 +25,12 @@ public class PlayerController : MonoBehaviour {
 	void Update () 
 	{
 		
-		if (Input.GetKey (KeyCode.RightArrow)) {
-			transform.Translate (Vector2.right * 20f * Time.deltaTime);
-			anim.Play(moveAnimation);
-			
-		} else if (Input.GetKey (KeyCode.Z)) {
+//		if (Input.GetKey (KeyCode.RightArrow)) {
+//			transform.Translate (Vector2.right * 20f * Time.deltaTime);
+//			anim.Play(moveAnimation);
+//			
+//		} 
+		if (Input.GetKey (KeyCode.Z)) {
 			//			transform.Translate (-Vector2.right * 30f * Time.deltaTime);
 			anim.Play(attackAnimation01);
 			
@@ -39,13 +40,14 @@ public class PlayerController : MonoBehaviour {
 		}
 		
 		else if (Input.GetKey (KeyCode.Space)) {
-			transform.Translate (Vector2.up * 7.5f * Time.deltaTime);
+			transform.Translate (Vector2.up * 8.5f * Time.deltaTime);
 			
 			anim.Play (jumpAnimation);
 		}
 		
 		else {
-			anim.Play (idleAnimation);
+			anim.Play (moveAnimation);
+			transform.Translate (Vector2.right * 20f * Time.deltaTime);
 		}	
 	}
 
