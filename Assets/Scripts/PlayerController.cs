@@ -24,6 +24,7 @@ public class PlayerController : Unit
 	void Start () 
 	{
 		anim = GetComponent<Animator> ();
+<<<<<<< HEAD
         rb = GetComponent<Rigidbody2D>();
     }
 
@@ -41,6 +42,38 @@ public class PlayerController : Unit
             Movement();
             //transform.Translate (Vector2.right * 20f * Time.deltaTime);
             anim.Play(moveAnimation);
+=======
+	}
+	
+	void Update () 
+	{
+		
+//		if (Input.GetKey (KeyCode.RightArrow)) {
+//			transform.Translate (Vector2.right * 20f * Time.deltaTime);
+//			anim.Play(moveAnimation);
+//			
+//		} 
+		if (Input.GetKey (KeyCode.Z)) {
+			//			transform.Translate (-Vector2.right * 30f * Time.deltaTime);
+			anim.Play(attackAnimation01);
+			
+		} else if (Input.GetKey (KeyCode.X)) {
+			//			transform.Translate (Vector2.up * 17f * Time.deltaTime);
+			anim.Play(attackAnimation02);
+		}
+		
+		else if (Input.GetKey (KeyCode.Space)) {
+			transform.Translate (Vector2.up * 8.5f * Time.deltaTime);
+			
+			anim.Play (jumpAnimation);
+		}
+		
+		else {
+			anim.Play (moveAnimation);
+			transform.Translate (Vector2.right * 20f * Time.deltaTime);
+		}	
+	}
+>>>>>>> origin/master
 
         }
 
